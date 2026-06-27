@@ -1,6 +1,6 @@
 # Hi, I'm Keren! 👋
 
- 🎓 Computer Science student at Western Governors University (WGU) | Expected Graduation: October 20266
+ 🎓 Computer Science student  | Expected Graduation: October 20266
 
 💡 Passionate about technology, data, and building software solutions that solve real-world problems.
 
