@@ -30,8 +30,8 @@ Created a backend application using Java, Spring Boot, and MySQL to manage trave
 ## Career Interests
 
 * Software Development
-* Data Analytics
-* Business Analytics
+* Data & Business Analytics
+* User Experience (UX) Designer 
 * Cloud Computing
 * Information Technology
 
