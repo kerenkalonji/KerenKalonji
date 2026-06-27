@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Keren! 👋
 
-<!--
-**kerenkalonji/KerenKalonji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🎓 Computer Science student at Western Governors University (WGU) | Expected Graduation: October 20266
 
-Here are some ideas to get you started:
+💡 Passionate about technology, data, and building software solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+* **Programming:** Java, Python, SQL
+* **Backend Development:** Spring Boot
+* **Data Analysis & Machine Learning:** Pandas, NumPy, Scikit-learn
+* **Databases:** MySQL
+* **Cloud Computing**
+* **Version Control:** Git & GitHub
+
+## Featured Projects
+
+### ☁️ Cloud-Based Java Application
+
+Built a Java Spring Boot application demonstrating cloud deployment, multithreading, and REST API development.
+
+### 🤖 Credit Card Fraud Detection
+
+Developed a machine learning model using Python and Scikit-learn to detect fraudulent credit card transactions through data preprocessing, model training, and performance evaluation.
+
+### 🌐 Travel Booking Backend API
+
+Created a backend application using Java, Spring Boot, and MySQL to manage travel bookings with RESTful APIs and database integration.
+
+## Career Interests
+
+* Software Development
+* Data Analytics
+* Business Analytics
+* Cloud Computing
+* Information Technology
+
+## Connect With Me
+
+* GitHub: github.com/kerenkalonji
